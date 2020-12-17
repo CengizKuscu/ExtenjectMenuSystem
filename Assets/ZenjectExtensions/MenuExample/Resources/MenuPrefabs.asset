@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20fcf86cbc004fd792d549a324a1a304, type: 3}
+  m_Name: MenuPrefabs
+  m_EditorClassIdentifier: 
+  appMenus:
+    menuList:
+    - name: Login
+      menuItem: {fileID: 5737453287905201361, guid: 9c280d7cd90f842da82f798a98f39ce2,
+        type: 3}
+    - name: TestMenu
+      menuItem: {fileID: 5737453287905201361, guid: 3d0b8796e464042b281d7b05beaf10e2,
+        type: 3}
